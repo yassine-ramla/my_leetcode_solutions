@@ -3,3 +3,5 @@
 3. iterative solution for the post-order traversal 145.binary tree post-order traversal
 4. writing a O(m + n) time and O(1) space complexity 160.intersection of two linked lists
 5. linear time and O(1) space complexity 169.majority element
+6. excel sheet title
+7. excel sheet number
