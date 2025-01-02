@@ -5,3 +5,4 @@
 5. linear time and O(1) space complexity 169.majority element
 6. excel sheet title
 7. excel sheet number
+8. use a fast and slow pointers to detect cycles 202.happy number
