@@ -7,3 +7,4 @@
 7. excel sheet number
 8. use a fast and slow pointers to detect cycles 202.happy number
 9. try other solutions (recursive) 206.reverse linked list
+10. try other solutions 290. word pattern
