@@ -27,6 +27,7 @@ class NumArray:
     self.nums = nums
     for i in range(1, len(nums)):
       self.nums[i] += nums[i - 1]
+    # self.nums.insert(0, 0)
     self.nums = [0] + self.nums
 
   def sumRange(self, left: int, right: int) -> int:
