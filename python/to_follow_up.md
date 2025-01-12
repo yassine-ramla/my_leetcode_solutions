@@ -10,3 +10,4 @@
 10. try other solutions 290. word pattern
 11. try other solutions 338. counting bits
 12. try other solutions 345. Reverse Vowels of a String
+13. try other solutions 349. Intersection of Two Arrays
