@@ -9,3 +9,4 @@
 9. try other solutions (recursive) 206.reverse linked list
 10. try other solutions 290. word pattern
 11. try other solutions 338. counting bits
+12. try other solutions 345. Reverse Vowels of a String
