@@ -11,3 +11,4 @@
 11. try other solutions 338. counting bits
 12. try other solutions 345. Reverse Vowels of a String
 13. try other solutions 349. Intersection of Two Arrays
+14. try other solutions 350. Intersection of Two Arrays II
