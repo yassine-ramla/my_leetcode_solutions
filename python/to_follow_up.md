@@ -12,3 +12,5 @@
 12. try other solutions 345. Reverse Vowels of a String
 13. try other solutions 349. Intersection of Two Arrays
 14. try other solutions 350. Intersection of Two Arrays II
+15. try other solutions 374. Guess Number Higher or Lower
+16. try other solutions 387. First Unique Character in a String
